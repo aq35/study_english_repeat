@@ -274,6 +274,46 @@ Please put it in the same branch.
 
 連結ポイント: put it → プリット(連結)
 
+## 21. 今後のルールに、私がローマ字の日本語を使ったら、学習の教材にしてください
+
+EN
+```
+From now on, if I use romaji Japanese, please turn it into study material.
+```
+
+リンキング
+```
+フロム ナウ オン イフアイ ユーズ ローマジ ジャパニーズ プリーズ ターニリントゥ スタディ マテリアル
+```
+
+連結ポイント: if I → イファイ(連結) / turn it into → ターニリントゥ
+
+## 22. はい(お願いします)
+
+EN
+```
+Yes, please go ahead.
+```
+
+リンキング
+```
+イェス プリーズ ゴウ アヘッド
+```
+
+## 23. そして、記憶してた文に一致する、または近い箇所があれば指摘してください
+
+EN
+```
+If there are any parts that match or are close to the sentences I've memorized, please point them out.
+```
+
+リンキング
+```
+イフ ゼア アー エニー パーツ ザット マッチ オア アー クロウス トゥ ザ センテンセズ アイヴ メモライズド プリーズ ポイントゼマウト
+```
+
+連結ポイント: point them out → ポイントゼマウト(連結) / sentences I've → センテンセザイヴ
+
 ## リンキング単語集
 
 連結(子音+母音)
@@ -284,6 +324,8 @@ Is it → イジット
 memorize it → メモライジット
 turn it into → ターニリントゥ
 sentences I → センテンセザイ
+if I → イファイ
+point them out → ポイントゼマウト
 use often → ユーゾフン
 ```
 
