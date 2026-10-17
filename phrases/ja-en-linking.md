@@ -314,6 +314,34 @@ If there are any parts that match or are close to the sentences I've memorized, 
 
 連結ポイント: point them out → ポイントゼマウト(連結) / sentences I've → センテンセザイヴ
 
+## 24. ローマ字の日本語が、英文と意味が一致する場合も同じ(一致とみなす)
+
+EN
+```
+A romaji sentence whose meaning matches an English sentence counts as a match too.
+```
+
+リンキング
+```
+ア ローマジ センテンス フーズ ミーニング マッチズアン イングリッシュ センテンス カウンツァザ マッチ トゥー
+```
+
+連結ポイント: matches an → マッチズアン / counts as a → カウンツァザ
+
+## 25. 終わったら、このブランチをマージしてください
+
+EN
+```
+When you're done, please merge this branch.
+```
+
+リンキング
+```
+ウェン ユア ダン プリーズ マージ ディス ブランチ
+```
+
+連結ポイント: メモ: please do merge は強調(「ぜひ」)になる。普通は please merge でよい
+
 ## リンキング単語集
 
 連結(子音+母音)
