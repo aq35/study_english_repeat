@@ -2,6 +2,48 @@
 
 ローマ字で書いていた日本語を、英語とリンキングにした一覧。英文とリンキングはコピペ用。
 
+## この一覧の決まり(元の文章を壊さない)
+
+- この一覧が、元の文章(正)。**番号と英文は変えない**。直したいときは、新しい番号で末尾に足す。
+- 会話(`talk-work-chat.md` など)は、この一覧から作った別のテーマ。会話を直しても、この一覧は変えない。
+- ローマ字の日本語は、番号を続けて末尾に追記する(同じ内容は重複登録しない)。
+
+## 索引(どの会話で使っているか)
+
+「会話」は `talk-work-chat.md` の行番号。「なし」は、まだ会話に入れていない文。
+
+| # | 日本語 | 英語 | 会話 |
+|---|---|---|---|
+| 1 | 保存してほしい | I want you to save this. | 1 |
+| 2 | 英訳にする前に | Before translating it into English, | 11 |
+| 3 | 今の文章が | the current sentence | 10 |
+| 4 | ~にして(例: 柔らかい表現にして) | Please make it softer. | 9 |
+| 5 | ~にして(例: 表にして) | Please turn it into a table. | 5 |
+| 6 | 以下、よく使う文章です | The following are sentences I use often. | 3 |
+| 7 | コピペできること | It must be copy-and-pasteable. | 13 |
+| 8 | XXXの箇所のコードをRustで書いてください | Please write the code for the XXX part in Rust. | 23(近い形) |
+| 9 | 箇所です(そのコードの場所のことです) | I mean the part of the code. | 25 |
+| 10 | ~じゃなくて、~ | Not the linking, but the English sentences. | 15 |
+| 11 | 英文をコピペできるように | so that I can copy and paste the English sentences | なし |
+| 12 | それぞれほしい | I want each of them. | 17 |
+| 13 | また、説明してください | Also, please explain. | 19 |
+| 14 | 一度に俯瞰できるように | so that I can see everything at a glance | 19 |
+| 15 | ~にしましょう | Let's make Rust the topic. | 21 |
+| 16 | 覚えたほうがいい？ | Is it better to memorize it? | 27 |
+| 17 | 推敲した文 / 柔らかい文 | the polished sentence / the softer sentence | 12 |
+| 18 | 今まで使ったローマ字の日本語を洗い出してください | Please list all the romaji Japanese I've used so far. | 29 |
+| 19 | この文章で、日本語・英語・リンキングのテキストを作成してください | Please create a Japanese, English, and linking text from the above. | 31 |
+| 20 | 同じブランチに入れてください | Please put it in the same branch. | 33 |
+| 21 | 今後のルールに、私がローマ字の日本語を使ったら、学習の教材にしてください | From now on, if I use romaji Japanese, please turn it into study material. | 35 |
+| 22 | はい(お願いします) | Yes, please go ahead. | 7 |
+| 23 | そして、記憶してた文に一致する、または近い箇所があれば指摘してください | If there are any parts that match or are close to the sentences I've memorized, please point them out. | 37 |
+| 24 | ローマ字の日本語が、英文と意味が一致する場合も同じ(一致とみなす) | A romaji sentence whose meaning matches an English sentence counts as a match too. | 39 |
+| 25 | 終わったら、このブランチをマージしてください | When you're done, please merge this branch. | 41 |
+| 26 | study_english_repeat にある用語を english-app に反映したい(ローマ字: ./study_english_repeat ni aru yougo wo english-app ni haneisitai) | I want to reflect the terms in XXX in YYY. | なし |
+| 27 | 音声を作成してほしい(ローマ字: onsei wo sakuseisite hosii) | I want you to create the audio. | なし |
+| 28 | english-app でスマホアプリを起動してほしい(ローマ字: english-app de smartphone app wo kidou site hosii) | I want you to launch the smartphone app with english-app. | なし |
+
+
 ## 1. 保存してほしい
 
 EN
