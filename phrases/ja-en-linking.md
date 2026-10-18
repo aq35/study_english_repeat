@@ -342,6 +342,54 @@ When you're done, please merge this branch.
 
 連結ポイント: メモ: please do merge は強調(「ぜひ」)になる。普通は please merge でよい
 
+## 26. study_english_repeat にある用語を english-app に反映したい(ローマ字: ./study_english_repeat ni aru yougo wo english-app ni haneisitai)
+
+EN
+```
+I want to reflect the terms in XXX in YYY.
+```
+
+リンキング
+```
+アイ ウォントゥ リフレクト ザ ターンジン XXX イン YYY
+```
+
+連結ポイント: terms in → ターンジン(連結) / XXX = study_english_repeat、YYY = english-app
+
+メモ: ~ni haneisitai(~に反映したい)は I want to reflect ... in ...。`ni` は場所によって in / to を使い分ける(例: 設計書に反映 = reflect it in the design doc / 全員に反映 = apply it to everyone)
+
+## 27. 音声を作成してほしい(ローマ字: onsei wo sakuseisite hosii)
+
+EN
+```
+I want you to create the audio.
+```
+
+リンキング
+```
+アイ ウォンチュ トゥ クリエイト ジ オーディオ
+```
+
+連結ポイント: want you → ウォンチュ(t+y が同化) / the audio → ジ オーディオ(母音の前の the)
+
+メモ: ~te hosii は I want you to ~。#1 と同じ型。#19 の Please create ... の言い方もできる(丁寧でそのまま頼める)
+
+## 28. english-app でスマホアプリを起動してほしい(ローマ字: english-app de smartphone app wo kidou site hosii)
+
+EN
+```
+I want you to launch the smartphone app with english-app.
+```
+
+リンキング
+```
+アイ ウォンチュ トゥ ローンチ ザ スマートフォン アップ ウィズ イングリッシュ アップ
+```
+
+連結ポイント: want you → ウォンチュ
+
+メモ: ~de(~で)は、道具・手段なら with、場所なら in / on。ここは english-app という道具なので with。実機で動かす場合は run it on my phone
+
 ## リンキング単語集
 
 連結(子音+母音)
@@ -355,6 +403,19 @@ sentences I → センテンセザイ
 if I → イファイ
 point them out → ポイントゼマウト
 use often → ユーゾフン
+run it → ランニット
+installed it → インストールディット
+fixed it → フィクスティット
+compressing it → コンプレッシンギット
+commit it → コミティット
+terms in → ターンジン
+what's in → ワッツィン
+added a → アディダ
+in a → イナ
+from about → フロマバウト
+sound is → サウンディズ
+volume is → ヴォリュミズ
+sentences is → センテンセジズ
 ```
 
 同化(t/d + y)
