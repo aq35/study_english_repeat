@@ -1,46 +1,8 @@
 # テーマ: アプリを作る会話(私とあなた)
 
-仕事のやり取り(`ja-en-linking.md`)とは別のテーマ。Claude Code にアプリを作ってもらうときの、私とあなたの会話。英文とリンキングはコピペ用。`XXX` `YYY` は置き換える部分。
+仕事のやり取り(`talk-work-chat.md`)とは別のテーマ。Claude Code にアプリを作ってもらうときの、私(男性の声)とあなた(AI。女性の声)の会話。あなたは聞き返しや確認もする。少ない言葉を、型(Do you ...? / Please ... / I'll ...)で繰り返し使う。英文とリンキングはコピペ用。
 
 ## 1. 私
-
-JA
-```
-study_english_repeat の用語を english-app に反映したいです。
-```
-
-EN
-```
-I want to reflect the terms in XXX in YYY.
-```
-
-リンキング
-```
-アイ ウォントゥ リフレクト ザ ターンジン XXX イン YYY
-```
-
-連結ポイント: terms in → ターンジン(連結)
-
-## 2. あなた
-
-JA
-```
-まず、両方の中身を確認します。
-```
-
-EN
-```
-First, I'll check what's in both of them.
-```
-
-リンキング
-```
-ファースト アイル チェック ワッツィン ボウサヴゼム
-```
-
-連結ポイント: what's in → ワッツィン / both of them → ボウサヴゼム
-
-## 3. 私
 
 JA
 ```
@@ -59,40 +21,78 @@ Please create the audio.
 
 連結ポイント: the audio → ジ オーディオ(母音の前の the)
 
-## 4. あなた
+## 2. あなた
 
 JA
 ```
-25 文を追加し、男性と女性の声で音声を作りました。
+もちろん。男性の声と女性の声、どちらがいいですか。
 ```
 
 EN
 ```
-I added 25 sentences and created the audio in a male voice and a female voice.
+Sure. Do you want a male voice or a female voice?
 ```
 
 リンキング
 ```
-アイ アディド トゥウェニファイヴ センテンセズ アン クリエイティド ジ オーディオ イナ メイル ヴォイス アン ア フィーメイル ヴォイス
+シュア ジュ ウォンタ メイル ヴォイソーラ フィーメイル ヴォイス
 ```
 
-連結ポイント: in a → イナ(連結) / and は ン に弱化
+連結ポイント: Do you want a → ジュ ウォンタ / voice or a → ヴォイソーラ(連結)
+
+## 3. 私
+
+JA
+```
+両方お願いします。
+```
+
+EN
+```
+I want both, please.
+```
+
+リンキング
+```
+アイ ウォン ボウス プリーズ
+```
+
+連結ポイント: want both → ウォン ボウス(t が脱落)
+
+## 4. あなた
+
+JA
+```
+できました。両方の声を作りました。
+```
+
+EN
+```
+Done. I created both voices.
+```
+
+リンキング
+```
+ダン アイ クリエイティド ボウス ヴォイセズ
+```
+
+連結ポイント: なし(簡単な文。声は1回だけ流す)
 
 ## 5. 私
 
 JA
 ```
-シミュレータではなく、実機で動かしたいです。
+ありがとう。スマホで動かしたいです。
 ```
 
 EN
 ```
-I want to run it on my phone, not on the simulator.
+Thanks. I want to run it on my phone.
 ```
 
 リンキング
 ```
-アイ ウォントゥ ランニット オン マイ フォウン ナット オン ザ シミュレイター
+サンクス アイ ウォントゥ ランニット オン マイ フォウン
 ```
 
 連結ポイント: run it → ランニット(連結)
@@ -101,7 +101,7 @@ I want to run it on my phone, not on the simulator.
 
 JA
 ```
-実機に入れました。開発元を信頼してください。
+スマホに入れました。開発元を信頼してください。
 ```
 
 EN
@@ -120,6 +120,44 @@ I installed it on your phone. Please trust the developer.
 
 JA
 ```
+分かりました。今、開きます。
+```
+
+EN
+```
+Okay. I'll open it now.
+```
+
+リンキング
+```
+オウケイ アイル オウプニット ナウ
+```
+
+連結ポイント: open it → オウプニット(連結)
+
+## 8. あなた
+
+JA
+```
+いいですね。動いたら教えてください。
+```
+
+EN
+```
+Great. Let me know if it works.
+```
+
+リンキング
+```
+グレイト レッミー ノウ イフィット ワークス
+```
+
+連結ポイント: Let me → レッミー(連結) / if it → イフィット(連結)
+
+## 9. 私
+
+JA
+```
 音声が流れません。
 ```
 
@@ -135,102 +173,178 @@ The audio doesn't play.
 
 連結ポイント: the audio → ジ オーディオ
 
-## 8. あなた
-
-JA
-```
-原因は、ファイル名の不一致でした。直しました。
-```
-
-EN
-```
-The cause was a file name mismatch. I fixed it.
-```
-
-リンキング
-```
-ザ コーズ ワザ ファイル ネイム ミスマッチ アイ フィクスティット
-```
-
-連結ポイント: was a → ワザ / fixed it → フィクスティット(t が連結)
-
-## 9. 私
-
-JA
-```
-全体的に音が小さいです。
-```
-
-EN
-```
-The overall volume is too low.
-```
-
-リンキング
-```
-ジ オウヴァロール ヴォリュミズ トゥー ロウ
-```
-
-連結ポイント: volume is → ヴォリュミズ(連結)
-
 ## 10. あなた
 
 JA
 ```
-音を大きくして、音量スライダーを追加しました。
+確認します。原因は、ファイル名の不一致でした。直しました。
 ```
 
 EN
 ```
-I raised the volume and added a volume slider.
+Let me check. The cause was a file name mismatch. I fixed it.
 ```
 
 リンキング
 ```
-アイ レイズド ザ ヴォリュマン アディダ ヴォリュム スライダー
+レッミー チェック ザ コーズ ワザ ファイル ネイム ミスマッチ アイ フィクスティット
 ```
 
-連結ポイント: volume and → ヴォリュマン / added a → アディダ
+連結ポイント: Let me → レッミー / was a → ワザ / fixed it → フィクスティット
 
 ## 11. 私
 
 JA
 ```
-英文と英文の間が長すぎます。
+ありがとう。流れます。でも、音が小さすぎます。
 ```
 
 EN
 ```
-The gap between sentences is too long.
+Thanks. It plays now. But the volume is too low.
 ```
 
 リンキング
 ```
-ザ ギャップ ビトウィーン センテンセジズ トゥー ロング
+サンクス イッ プレイズ ナウ バット ザ ヴォリュミズ トゥー ロウ
 ```
 
-連結ポイント: sentences is → センテンセジズ(連結)
+連結ポイント: volume is → ヴォリュミズ(連結)
 
 ## 12. あなた
 
 JA
 ```
-間隔を約 7 秒から約 2 秒に縮めました。
+大きくしますか。
 ```
 
 EN
 ```
-I shortened the gap from about seven seconds to about two.
+Do you want it louder?
 ```
 
 リンキング
 ```
-アイ ショートゥンド ザ ギャップ フロマバウト セヴン セカンズ トゥ アバウトゥー
+ジュ ウォニット ラウダー
 ```
 
-連結ポイント: from about → フロマバウト / about two → アバウトゥー
+連結ポイント: Do you → ジュ / want it → ウォニット(連結)
 
 ## 13. 私
+
+JA
+```
+はい。音量スライダーも付けてください。
+```
+
+EN
+```
+Yes, please. And add a volume slider.
+```
+
+リンキング
+```
+イェス プリーズ アン アダ ヴォリュム スライダー
+```
+
+連結ポイント: add a → アダ(連結)
+
+## 14. あなた
+
+JA
+```
+できました。音を大きくして、音量スライダーを付けました。
+```
+
+EN
+```
+Done. I raised the volume and added a volume slider.
+```
+
+リンキング
+```
+ダン アイ レイズド ザ ヴォリュマン アディダ ヴォリュム スライダー
+```
+
+連結ポイント: volume and → ヴォリュマン / added a → アディダ
+
+## 15. 私
+
+JA
+```
+ありがとう。英文と英文の間が長すぎます。
+```
+
+EN
+```
+Thanks. The gap between sentences is too long.
+```
+
+リンキング
+```
+サンクス ザ ギャップ ビトウィーン センテンセジズ トゥー ロング
+```
+
+連結ポイント: sentences is → センテンセジズ(連結)
+
+## 16. あなた
+
+JA
+```
+どのくらいがいいですか。
+```
+
+EN
+```
+How long should the gap be?
+```
+
+リンキング
+```
+ハウ ロング シュッド ザ ギャップ ビー
+```
+
+連結ポイント: なし(簡単な文。声は1回だけ流す)
+
+## 17. 私
+
+JA
+```
+2 秒くらいでいいです。
+```
+
+EN
+```
+About two seconds is fine.
+```
+
+リンキング
+```
+アバウト トゥー セカンズ イズ ファイン
+```
+
+連結ポイント: なし(簡単な文。声は1回だけ流す)
+
+## 18. あなた
+
+JA
+```
+分かりました。間隔を約 2 秒に縮めました。
+```
+
+EN
+```
+Okay. I shortened the gap to about two seconds.
+```
+
+リンキング
+```
+オウケイ アイ ショートゥンド ザ ギャップ トゥ アバウト トゥー セカンズ
+```
+
+連結ポイント: なし(簡単な文。声は1回だけ流す)
+
+## 19. 私
 
 JA
 ```
@@ -247,28 +361,66 @@ Please repeat each sentence three times.
 プリーズ リピート イーチ センテンス スリー タイムズ
 ```
 
-連結ポイント: each sentence → イーチ センテンス(軽く繋ぐ)
+連結ポイント: なし(簡単な文。声は1回だけ流す)
 
-## 14. あなた
+## 20. あなた
 
 JA
 ```
-声を 3 回流してから、英文を出します。
+すべての文を繰り返しますか。
 ```
 
 EN
 ```
-It plays each sentence three times before showing the text.
+Do you want to repeat every sentence?
 ```
 
 リンキング
 ```
-イッ プレイズ イーチ センテンス スリー タイムズ ビフォー ショウイング ザ テキスト
+ジュ ウォナ リピート エブリ センテンス
 ```
 
-連結ポイント: before showing → ビフォー ショウイング
+連結ポイント: Do you → ジュ / want to → ウォナ
 
-## 15. 私
+## 21. 私
+
+JA
+```
+リンキングのある文だけです。
+```
+
+EN
+```
+Only the sentences with linking.
+```
+
+リンキング
+```
+オウンリー ザ センテンセズ ウィズ リンキング
+```
+
+連結ポイント: なし(簡単な文。声は1回だけ流す)
+
+## 22. あなた
+
+JA
+```
+分かりました。その文だけ繰り返します。
+```
+
+EN
+```
+Got it. I'll repeat only those.
+```
+
+リンキング
+```
+ガリット アイル リピート オウンリー ゾウズ
+```
+
+連結ポイント: Got it → ガリット(フラップT)
+
+## 23. 私
 
 JA
 ```
@@ -287,41 +439,136 @@ The sound is distorted.
 
 連結ポイント: sound is → サウンディズ(連結)
 
-## 16. あなた
+## 24. あなた
 
 JA
 ```
-圧縮をやめて、音を大きくするだけにしました。
+すみません。圧縮をやめて、音を大きくするだけにしました。
 ```
 
 EN
 ```
-I stopped compressing it and only raised the volume.
+I'm sorry. I stopped compressing it and only raised the volume.
 ```
 
 リンキング
 ```
-アイ ストップト コンプレッシンギット アン オウンリー レイズド ザ ヴォリュム
+アイム ソーリー アイ ストップト コンプレッシンギット アン オウンリー レイズド ザ ヴォリュム
 ```
 
 連結ポイント: compressing it → コンプレッシンギット(連結)
 
-## 17. 私
+## 25. 私
 
 JA
 ```
-コミットしてください。
+良くなりました。コミットしてください。
 ```
 
 EN
 ```
-Please commit it.
+That sounds better. Please commit it.
 ```
 
 リンキング
 ```
-プリーズ コミティット
+ザット サウンズ ベラー プリーズ コミティット
 ```
 
-連結ポイント: commit it → コミティット(連結)
+連結ポイント: better → ベラー(フラップT) / commit it → コミティット(連結)
+
+## 26. あなた
+
+JA
+```
+はい。プッシュもしますか。
+```
+
+EN
+```
+Sure. Do you want me to push it too?
+```
+
+リンキング
+```
+シュア ジュ ウォン ミー トゥ プシット トゥー
+```
+
+連結ポイント: Do you → ジュ / push it → プシット(連結)
+
+## 27. 私
+
+JA
+```
+はい、お願いします。
+```
+
+EN
+```
+Yes, please go ahead.
+```
+
+リンキング
+```
+イェス プリーズ ゴウ アヘッド
+```
+
+連結ポイント: なし(簡単な文。声は1回だけ流す)
+
+## 28. あなた
+
+JA
+```
+できました。ほかにありますか。
+```
+
+EN
+```
+Done. Is there anything else?
+```
+
+リンキング
+```
+ダン イズ ゼア エニシンゲルス
+```
+
+連結ポイント: anything else → エニシンゲルス(連結)
+
+## 29. 私
+
+JA
+```
+いいえ、以上です。ありがとう。
+```
+
+EN
+```
+No, that's all. Thanks.
+```
+
+リンキング
+```
+ノウ ザッツ オール サンクス
+```
+
+連結ポイント: なし(簡単な文。声は1回だけ流す)
+
+## 30. あなた
+
+JA
+```
+どういたしまして。
+```
+
+EN
+```
+You're welcome.
+```
+
+リンキング
+```
+ユア ウェルカム
+```
+
+連結ポイント: なし(簡単な文。声は1回だけ流す)
 
